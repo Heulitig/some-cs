@@ -1,6 +1,6 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: #faebd7
+light: green
 dark: #240002
 
 -- ftd.color step-1-:
