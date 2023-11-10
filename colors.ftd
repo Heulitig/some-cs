@@ -1,7 +1,7 @@
 ;; **** Change all colors given in below places and remove this line ****
 -- ftd.color base-:
-light: green
-dark: green
+light: #faebd7
+dark: #240002
 
 -- ftd.color step-1-:
 light: #e3bc81
@@ -35,8 +35,8 @@ light: #D9D9D9
 dark: #3e0306
 
 -- ftd.color text-:
-light: #707070
-dark: #D9D9D9
+light: yellow
+dark: yellow
 
 -- ftd.color text-strong-:
 light: #333333
